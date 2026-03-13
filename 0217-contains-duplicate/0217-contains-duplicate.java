@@ -5,17 +5,17 @@ class Solution {
         {
             mpp.put(i,mpp.getOrDefault(i,0)+1);
         }
-        boolean result=false;
+        boolean res=false;
         for(int i:mpp.keySet())
         {
           //  int t=mpp.getOrDefault((nums[i]),0);
           int t=mpp.get(i);
             if (t>=2)
             {
-                result=true;
+                res=true;
                 break;
             }
         }
-        return result;
+        return res;
     }
 }
