@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0064-minimum-path-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0120-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0120-triangle) |
 ## Matrix
 |  |
 | ------- |
