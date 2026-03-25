@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0931-minimum-falling-path-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1463-cherry-pickup-ii) |
