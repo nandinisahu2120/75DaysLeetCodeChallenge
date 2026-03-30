@@ -140,8 +140,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 ## Binary Search
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
