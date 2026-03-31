@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1048-longest-string-chain) |
 | [1463-cherry-pickup-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1463-cherry-pickup-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1048-longest-string-chain) |
 | [1463-cherry-pickup-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1463-cherry-pickup-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Matrix
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1048-longest-string-chain) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## String
 |  |
