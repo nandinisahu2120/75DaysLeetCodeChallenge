@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0931-minimum-falling-path-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1463-cherry-pickup-ii) |
 ## Sorting
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
@@ -179,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
