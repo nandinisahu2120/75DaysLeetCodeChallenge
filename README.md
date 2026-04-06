@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
@@ -208,4 +209,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
