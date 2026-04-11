@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1302-deepest-leaves-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1302-deepest-leaves-sum) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1302-deepest-leaves-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1302-deepest-leaves-sum) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Linked List
 |  |
