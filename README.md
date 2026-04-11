@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0142-linked-list-cycle-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Backtracking
