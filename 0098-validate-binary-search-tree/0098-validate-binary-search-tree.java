@@ -14,36 +14,15 @@
  * }
  */
 class Solution {
-    public boolean isValidBST(TreeNode root) {
-        if(root==null) return false;
-        TreeNode curr=root;
-        int i=0;
-        int prev=Integer.MIN_VALUE;
-        while(curr!=null){
-            if(curr.left==null){
-                if(curr.val<=prev && i!=0) return false;
-                i++;
-                prev=curr.val;
-                curr=curr.right;
-            }
-            else{
-                TreeNode node=curr.left;
-                while(node.right!=null && node.right!=curr)
-                    node=node.right;
-                if(node.right==null){
-                    node.right=curr;
-                    curr=curr.left;
-
-                }
-                else{
-                    node.right=null;
-                    if(curr.val<=prev && i!=0) return false;
-                    i++;
-                    prev=curr.val;
-                    curr=curr.right;
-                }
-            }
+    boolean validate(TreeNode root, long leftval,long rightval){
+        if(root==null) return true;
+        boolean left,right;
+        if(root.val>leftval && root.val<rightval){
+            return validate(root.left,leftval,root.val) & validate(root.right,root.val,rightval);
         }
-        return true;
+        else return false;
+    }
+    public boolean isValidBST(TreeNode root) {
+        return validate(root,Long.MIN_VALUE,Long.MAX_VALUE);
     }
 }
