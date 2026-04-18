@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1302-deepest-leaves-sum) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1302-deepest-leaves-sum) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -320,4 +322,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
