@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0396-rotate-function](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 ## Monotonic Stack
