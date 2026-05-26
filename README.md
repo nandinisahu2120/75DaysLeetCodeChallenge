@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1048-longest-string-chain) |
 | [1463-cherry-pickup-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1048-longest-string-chain) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1048-longest-string-chain) |
 | [1463-cherry-pickup-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Matrix
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Recursion
 |  |
 | ------- |
@@ -353,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
+## Enumeration
+|  |
+| ------- |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3434-maximum-frequency-after-subarray-operation) |
 <!---LeetCode Topics End-->
