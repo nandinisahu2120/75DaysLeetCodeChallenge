@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1048-longest-string-chain) |
 | [1463-cherry-pickup-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2187-minimum-time-to-complete-trips](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/2187-minimum-time-to-complete-trips) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Hash Table
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [2187-minimum-time-to-complete-trips](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/2187-minimum-time-to-complete-trips) |
 ## Design
 |  |
 | ------- |
