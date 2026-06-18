@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0343-integer-break](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Monotonic Stack
 |  |
 | ------- |
