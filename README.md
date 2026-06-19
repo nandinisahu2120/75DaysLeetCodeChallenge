@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1048-longest-string-chain) |
 | [1463-cherry-pickup-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1732-find-the-highest-altitude](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [2187-minimum-time-to-complete-trips](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/2187-minimum-time-to-complete-trips) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3434-maximum-frequency-after-subarray-operation) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Two Pointers
 |  |
