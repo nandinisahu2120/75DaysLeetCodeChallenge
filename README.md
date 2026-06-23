@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0931-minimum-falling-path-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1048-longest-string-chain) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1463-cherry-pickup-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1732-find-the-highest-altitude](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
