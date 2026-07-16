@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0133-clone-graph) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0733-flood-fill](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
