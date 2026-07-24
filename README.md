@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
+| [0560-subarray-sum-equals-k](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0697-degree-of-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0697-degree-of-an-array) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Two Pointers
