@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
+| [2544-alternating-digit-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/2544-alternating-digit-sum) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Monotonic Stack
 |  |
