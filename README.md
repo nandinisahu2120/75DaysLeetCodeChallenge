@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1048-longest-string-chain) |
 | [1463-cherry-pickup-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Matrix
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1048-longest-string-chain) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Recursion
 |  |
