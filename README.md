@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0142-linked-list-cycle-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
