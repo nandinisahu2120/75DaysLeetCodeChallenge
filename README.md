@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2544-alternating-digit-sum](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/2544-alternating-digit-sum) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3871-count-commas-in-range-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3871-count-commas-in-range-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
