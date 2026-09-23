@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1148-article-views-i) |
 | [1164-product-price-at-a-given-date](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1164-product-price-at-a-given-date) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1251-average-selling-price](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1251-average-selling-price) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1661-average-time-of-process-per-machine) |
