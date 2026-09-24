@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0596-classes-with-at-least-5-students) |
+| [0626-exchange-seats](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1141-user-activity-for-the-past-30-days-i) |
