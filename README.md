@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0596-classes-with-at-least-5-students) |
 | [1045-customers-who-bought-all-products](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1045-customers-who-bought-all-products) |
+| [1070-product-sales-analysis-iii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1148-article-views-i) |
 | [1164-product-price-at-a-given-date](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1164-product-price-at-a-given-date) |
