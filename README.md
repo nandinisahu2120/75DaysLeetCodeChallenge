@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0539-minimum-time-difference) |
 | [1048-longest-string-chain](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1048-longest-string-chain) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -491,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
