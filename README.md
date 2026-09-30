@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3731-find-missing-elements](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Quickselect
 |  |
 | ------- |
@@ -458,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -497,4 +503,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/nandinisahu2120/75DaysLeetCodeChallenge/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
